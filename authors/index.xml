@@ -5,76 +5,12 @@
     <link>https://arunl.com/authors/</link>
       <atom:link href="https://arunl.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jan 2020 19:37:11 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://arunl.com/images/icon_hube5046b17bdf86d034fe347c39c9ed76_34380_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>https://arunl.com/authors/</link>
     </image>
-    
-    <item>
-      <title>Arun Lakshmanan</title>
-      <link>https://arunl.com/authors/arun-lakshmanan/</link>
-      <pubDate>Fri, 03 Jan 2020 19:37:11 +0000</pubDate>
-      <guid>https://arunl.com/authors/arun-lakshmanan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bentic Sebastian</title>
-      <link>https://arunl.com/authors/bentic-sebastian/</link>
-      <pubDate>Fri, 03 Jan 2020 19:37:11 +0000</pubDate>
-      <guid>https://arunl.com/authors/bentic-sebastian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Camille Goudeseune</title>
-      <link>https://arunl.com/authors/camille-goudeseune/</link>
-      <pubDate>Fri, 03 Jan 2020 19:37:11 +0000</pubDate>
-      <guid>https://arunl.com/authors/camille-goudeseune/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Christopher Widdowson</title>
-      <link>https://arunl.com/authors/christopher-widdowson/</link>
-      <pubDate>Fri, 03 Jan 2020 19:37:11 +0000</pubDate>
-      <guid>https://arunl.com/authors/christopher-widdowson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hang Cui</title>
-      <link>https://arunl.com/authors/hang-cui/</link>
-      <pubDate>Fri, 03 Jan 2020 19:37:11 +0000</pubDate>
-      <guid>https://arunl.com/authors/hang-cui/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robert Mitchell Jones</title>
-      <link>https://arunl.com/authors/robert-mitchell-jones/</link>
-      <pubDate>Fri, 03 Jan 2020 19:37:11 +0000</pubDate>
-      <guid>https://arunl.com/authors/robert-mitchell-jones/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thiago Marinho</title>
-      <link>https://arunl.com/authors/thiago-marinho/</link>
-      <pubDate>Fri, 03 Jan 2020 19:37:11 +0000</pubDate>
-      <guid>https://arunl.com/authors/thiago-marinho/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Venanzio Cichella</title>
-      <link>https://arunl.com/authors/venanzio-cichella/</link>
-      <pubDate>Fri, 03 Jan 2020 19:37:11 +0000</pubDate>
-      <guid>https://arunl.com/authors/venanzio-cichella/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Andrew Patterson</title>
@@ -85,10 +21,26 @@
     </item>
     
     <item>
+      <title>Arun Lakshmanan</title>
+      <link>https://arunl.com/authors/arun-lakshmanan/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/authors/arun-lakshmanan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Naira Hovakimyan</title>
       <link>https://arunl.com/authors/naira-hovakimyan/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://arunl.com/authors/naira-hovakimyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Venanzio Cichella</title>
+      <link>https://arunl.com/authors/venanzio-cichella/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/authors/venanzio-cichella/</guid>
       <description></description>
     </item>
     
@@ -117,6 +69,14 @@
     </item>
     
     <item>
+      <title>Thiago Marinho</title>
+      <link>https://arunl.com/authors/thiago-marinho/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/authors/thiago-marinho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Alex Kirlik</title>
       <link>https://arunl.com/authors/alex-kirlik/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
@@ -141,6 +101,14 @@
     </item>
     
     <item>
+      <title>Christopher Widdowson</title>
+      <link>https://arunl.com/authors/christopher-widdowson/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/authors/christopher-widdowson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dušan Stipanović</title>
       <link>https://arunl.com/authors/dusan-stipanovic/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
@@ -149,10 +117,42 @@
     </item>
     
     <item>
+      <title>Hang Cui</title>
+      <link>https://arunl.com/authors/hang-cui/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/authors/hang-cui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ranxiao Frances Wang</title>
       <link>https://arunl.com/authors/ranxiao-frances-wang/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://arunl.com/authors/ranxiao-frances-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bentic Sebastian</title>
+      <link>https://arunl.com/authors/bentic-sebastian/</link>
+      <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/authors/bentic-sebastian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camille Goudeseune</title>
+      <link>https://arunl.com/authors/camille-goudeseune/</link>
+      <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/authors/camille-goudeseune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Mitchell Jones</title>
+      <link>https://arunl.com/authors/robert-mitchell-jones/</link>
+      <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/authors/robert-mitchell-jones/</guid>
       <description></description>
     </item>
     
