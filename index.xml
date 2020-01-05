@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arun Lakshmanan</title>
+    <link>https://arunl.com/</link>
+      <atom:link href="https://arunl.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arun Lakshmanan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://arunl.com/images/icon_hube5046b17bdf86d034fe347c39c9ed76_34380_512x512_fill_lanczos_center_2.png</url>
+      <title>Arun Lakshmanan</title>
+      <link>https://arunl.com/</link>
+    </image>
+    
+    <item>
+      <title>Intent-aware probabilistic trajectory estimation for collision prediction with uncertainty quantification</title>
+      <link>https://arunl.com/publication/patterson-2019-intent/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/publication/patterson-2019-intent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proximity queries for absolutely continuous parametric curves</title>
+      <link>https://arunl.com/publication/lakshmanan-2019-proximity/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/publication/lakshmanan-2019-proximity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and control of a small aerial manipulator for indoor environments</title>
+      <link>https://arunl.com/publication/jones-2017-design/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/publication/jones-2017-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piecewise Bézier curve trajectory generation and control for quadrotors</title>
+      <link>https://arunl.com/publication/lakshmanan-2016-piecewise/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/publication/lakshmanan-2016-piecewise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carebots: Prolonged elderly independence using small mobile robots</title>
+      <link>https://arunl.com/publication/marinho-2016-carebots/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/publication/marinho-2016-carebots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VR study of human-multicopter interaction in a residential setting</title>
+      <link>https://arunl.com/publication/marinho-2016-vr/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/publication/marinho-2016-vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bookshelf</title>
+      <link>https://arunl.com/bookshelf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/bookshelf/</guid>
+      <description>&lt;p&gt;Since Goodreads has such a terrible interface (I could go over all my problems with it, but Daniel Greene explains it so much better on his &lt;a href=&#34;https://youtu.be/SxXztQuItHY&#34;&gt;video&lt;/a&gt;), I have decided to host a digital bookshelf of the books that I have read since eary 2019 (I didn&#39;t really track my reading much before then).&lt;/p&gt;
+&lt;h3 id=&#34;currently-reading&#34;&gt;Currently Reading&lt;/h3&gt;
+&lt;figure class=&#34;half&#34; style=&#34;display:flex&#34;&gt;
+		&lt;img style=&#34;height:250px&#34; src=&#34;ninthhouse.jpg&#34;&gt;
+		&lt;img style=&#34;height:250px&#34; src=&#34;dispossessed.jpg&#34;&gt;
+&lt;/figure&gt;
+&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;
+&lt;figure class=&#34;half&#34; style=&#34;display:flex&#34;&gt;
+    &lt;img style=&#34;height:250px&#34; src=&#34;mort.jpg&#34;&gt;
+		&lt;img style=&#34;height:250px&#34; src=&#34;burningwhite.jpg&#34;&gt;
+    &lt;img style=&#34;height:250px&#34; src=&#34;senlinascends.jpg&#34;&gt;
+		&lt;img style=&#34;height:250px&#34; src=&#34;goldencompass.jpg&#34;&gt;
+&lt;/figure&gt;
+&lt;figure class=&#34;half&#34; style=&#34;display:flex&#34;&gt;
+		&lt;img style=&#34;height:250px&#34; src=&#34;bloodmirror.jpg&#34;&gt;
+    &lt;img style=&#34;height:250px&#34; src=&#34;brokeneye.jpg&#34;&gt;
+		&lt;img style=&#34;height:250px&#34; src=&#34;battleroyale.jpg&#34;&gt;
+    &lt;img style=&#34;height:250px&#34; src=&#34;blindingknife.jpg&#34;&gt;
+&lt;/figure&gt;
+&lt;figure class=&#34;half&#34; style=&#34;display:flex&#34;&gt;
+		&lt;img style=&#34;height:250px&#34; src=&#34;republicthieves.jpg&#34;&gt;
+    &lt;img style=&#34;height:250px&#34; src=&#34;redseasredskies.jpg&#34;&gt;
+    &lt;img style=&#34;height:250px&#34; src=&#34;lieslockelamora.jpg&#34;&gt;
+		&lt;img style=&#34;height:250px&#34; src=&#34;fatedsky.jpg&#34;&gt;
+&lt;/figure&gt;
+&lt;figure class=&#34;half&#34; style=&#34;display:flex&#34;&gt;
+    &lt;img style=&#34;height:250px&#34; src=&#34;stormlocusts.jpg&#34;&gt;
+		&lt;img style=&#34;height:250px&#34; src=&#34;bloodyrose.jpg&#34;&gt;
+    &lt;img style=&#34;height:250px&#34; src=&#34;traillightning.jpg&#34;&gt;
+		&lt;img style=&#34;height:250px&#34; src=&#34;kingswyld.jpg&#34;&gt;
+&lt;/figure&gt;
+&lt;figure class=&#34;half&#34; style=&#34;display:flex&#34;&gt;
+    &lt;img style=&#34;height:250px&#34; src=&#34;blackprism.jpg&#34;&gt;
+		&lt;img style=&#34;height:250px&#34; src=&#34;guardsguards.jpg&#34;&gt;
+    &lt;img style=&#34;height:250px&#34; src=&#34;calculatingstars.jpg&#34;&gt;
+		&lt;img style=&#34;height:250px&#34; src=&#34;sabriel.jpg&#34;&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

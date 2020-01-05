@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thiago Marinho | Arun Lakshmanan</title>
+    <link>https://arunl.com/authors/thiago-marinho/</link>
+      <atom:link href="https://arunl.com/authors/thiago-marinho/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thiago Marinho</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://arunl.com/images/icon_hube5046b17bdf86d034fe347c39c9ed76_34380_512x512_fill_lanczos_center_2.png</url>
+      <title>Thiago Marinho</title>
+      <link>https://arunl.com/authors/thiago-marinho/</link>
+    </image>
+    
+    <item>
+      <title>Design and control of a small aerial manipulator for indoor environments</title>
+      <link>https://arunl.com/publication/jones-2017-design/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/publication/jones-2017-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carebots: Prolonged elderly independence using small mobile robots</title>
+      <link>https://arunl.com/publication/marinho-2016-carebots/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/publication/marinho-2016-carebots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VR study of human-multicopter interaction in a residential setting</title>
+      <link>https://arunl.com/publication/marinho-2016-vr/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/publication/marinho-2016-vr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
