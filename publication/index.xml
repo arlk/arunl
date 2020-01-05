@@ -5,12 +5,20 @@
     <link>https://arunl.com/publication/</link>
       <atom:link href="https://arunl.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jan 2020 19:37:11 +0000</lastBuildDate>
     <image>
       <url>https://arunl.com/images/icon_hube5046b17bdf86d034fe347c39c9ed76_34380_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://arunl.com/publication/</link>
     </image>
+    
+    <item>
+      <title>VR study of human-multicopter interaction in a residential setting</title>
+      <link>https://arunl.com/publication/marinho-2016-vr/</link>
+      <pubDate>Fri, 03 Jan 2020 19:37:11 +0000</pubDate>
+      <guid>https://arunl.com/publication/marinho-2016-vr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Intent-aware probabilistic trajectory estimation for collision prediction with uncertainty quantification</title>
@@ -49,14 +57,6 @@
       <link>https://arunl.com/publication/marinho-2016-carebots/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://arunl.com/publication/marinho-2016-carebots/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VR study of human-multicopter interaction in a residential setting</title>
-      <link>https://arunl.com/publication/marinho-2016-vr/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://arunl.com/publication/marinho-2016-vr/</guid>
       <description></description>
     </item>
     
