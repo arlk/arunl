@@ -68,10 +68,16 @@
       <description>&lt;p&gt;Since Goodreads has such a terrible interface (I could go over all my problems with it, but Daniel Greene explains it so much better on his &lt;a href=&#34;https://youtu.be/SxXztQuItHY&#34;&gt;video&lt;/a&gt;), I have decided to host a digital bookshelf of the books that I have read since eary 2019 (I didn&#39;t really track my reading much before then).&lt;/p&gt;
 &lt;h3 id=&#34;currently-reading&#34;&gt;Currently Reading&lt;/h3&gt;
 &lt;figure class=&#34;half&#34; style=&#34;display:flex&#34;&gt;
-		&lt;img style=&#34;height:250px&#34; src=&#34;ninthhouse.jpg&#34;&gt;
+		&lt;img style=&#34;height:250px&#34; src=&#34;menarms.jpg&#34;&gt;
 		&lt;img style=&#34;height:250px&#34; src=&#34;dispossessed.jpg&#34;&gt;
 &lt;/figure&gt;
 &lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;
+&lt;figure class=&#34;half&#34; style=&#34;display:flex&#34;&gt;
+    &lt;img style=&#34;height:250px&#34; src=&#34;ninthhouse.jpg&#34;&gt;
+		&lt;img style=&#34;height:250px&#34; src=&#34;blank.png&#34;&gt;
+    &lt;img style=&#34;height:250px&#34; src=&#34;blank.png&#34;&gt;
+		&lt;img style=&#34;height:250px&#34; src=&#34;blank.png&#34;&gt;
+&lt;/figure&gt;
 &lt;figure class=&#34;half&#34; style=&#34;display:flex&#34;&gt;
     &lt;img style=&#34;height:250px&#34; src=&#34;mort.jpg&#34;&gt;
 		&lt;img style=&#34;height:250px&#34; src=&#34;burningwhite.jpg&#34;&gt;
