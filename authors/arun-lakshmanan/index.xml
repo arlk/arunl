@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arun Lakshmanan</title>
+    <title>Arun Lakshmanan* | Arun Lakshmanan</title>
     <link>https://arunl.com/authors/arun-lakshmanan/</link>
       <atom:link href="https://arunl.com/authors/arun-lakshmanan/index.xml" rel="self" type="application/rss+xml" />
-    <description>Arun Lakshmanan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <description>Arun Lakshmanan*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://arunl.com/images/icon_hube5046b17bdf86d034fe347c39c9ed76_34380_512x512_fill_lanczos_center_2.png</url>
-      <title>Arun Lakshmanan</title>
+      <title>Arun Lakshmanan*</title>
       <link>https://arunl.com/authors/arun-lakshmanan/</link>
     </image>
+    
+    <item>
+      <title>$\mathcal{RL}_1-\mathcal{GP}$: Safe Simulataneous Learning and Control</title>
+      <link>https://arunl.com/publication/gahlawat-2020-safe/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/publication/gahlawat-2020-safe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe feedback motion planning: A contraction theory and $\mathcal{L}_1$-adaptive control based approach</title>
+      <link>https://arunl.com/publication/lakshmanan-2020-safe/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/publication/lakshmanan-2020-safe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Intent-aware probabilistic trajectory estimation for collision prediction with uncertainty quantification</title>
@@ -55,7 +71,7 @@
     <item>
       <title>VR study of human-multicopter interaction in a residential setting</title>
       <link>https://arunl.com/publication/marinho-2016-vr/</link>
-      <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://arunl.com/publication/marinho-2016-vr/</guid>
       <description></description>
     </item>

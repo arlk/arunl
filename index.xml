@@ -5,12 +5,28 @@
     <link>https://arunl.com/</link>
       <atom:link href="https://arunl.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Arun Lakshmanan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://arunl.com/images/icon_hube5046b17bdf86d034fe347c39c9ed76_34380_512x512_fill_lanczos_center_2.png</url>
       <title>Arun Lakshmanan</title>
       <link>https://arunl.com/</link>
     </image>
+    
+    <item>
+      <title>$\mathcal{RL}_1-\mathcal{GP}$: Safe Simulataneous Learning and Control</title>
+      <link>https://arunl.com/publication/gahlawat-2020-safe/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/publication/gahlawat-2020-safe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe feedback motion planning: A contraction theory and $\mathcal{L}_1$-adaptive control based approach</title>
+      <link>https://arunl.com/publication/lakshmanan-2020-safe/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://arunl.com/publication/lakshmanan-2020-safe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Intent-aware probabilistic trajectory estimation for collision prediction with uncertainty quantification</title>
@@ -55,60 +71,9 @@
     <item>
       <title>VR study of human-multicopter interaction in a residential setting</title>
       <link>https://arunl.com/publication/marinho-2016-vr/</link>
-      <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://arunl.com/publication/marinho-2016-vr/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Bookshelf</title>
-      <link>https://arunl.com/bookshelf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://arunl.com/bookshelf/</guid>
-      <description>&lt;p&gt;Since Goodreads has such a terrible interface (I could go over all my problems with it, but Daniel Greene explains it so much better on his &lt;a href=&#34;https://youtu.be/SxXztQuItHY&#34;&gt;video&lt;/a&gt;), I have decided to host a digital bookshelf of the books that I have read since eary 2019 (I didn&#39;t really track my reading much before then).&lt;/p&gt;
-&lt;h3 id=&#34;currently-reading&#34;&gt;Currently Reading&lt;/h3&gt;
-&lt;figure class=&#34;half&#34; style=&#34;display:flex&#34;&gt;
-		&lt;img style=&#34;height:250px&#34; src=&#34;eyeworld.jpg&#34;&gt;
-		&lt;img style=&#34;height:250px&#34; src=&#34;dispossessed.jpg&#34;&gt;
-&lt;/figure&gt;
-&lt;h3 id=&#34;read&#34;&gt;Read&lt;/h3&gt;
-&lt;figure class=&#34;half&#34; style=&#34;display:flex&#34;&gt;
-		&lt;img style=&#34;height:250px&#34; src=&#34;menarms.jpg&#34;&gt;
-    &lt;img style=&#34;height:250px&#34; src=&#34;ninthhouse.jpg&#34;&gt;
-    &lt;img style=&#34;height:250px&#34; src=&#34;blank.png&#34;&gt;
-		&lt;img style=&#34;height:250px&#34; src=&#34;blank.png&#34;&gt;
-&lt;/figure&gt;
-&lt;figure class=&#34;half&#34; style=&#34;display:flex&#34;&gt;
-    &lt;img style=&#34;height:250px&#34; src=&#34;mort.jpg&#34;&gt;
-		&lt;img style=&#34;height:250px&#34; src=&#34;burningwhite.jpg&#34;&gt;
-    &lt;img style=&#34;height:250px&#34; src=&#34;senlinascends.jpg&#34;&gt;
-		&lt;img style=&#34;height:250px&#34; src=&#34;goldencompass.jpg&#34;&gt;
-&lt;/figure&gt;
-&lt;figure class=&#34;half&#34; style=&#34;display:flex&#34;&gt;
-		&lt;img style=&#34;height:250px&#34; src=&#34;bloodmirror.jpg&#34;&gt;
-    &lt;img style=&#34;height:250px&#34; src=&#34;brokeneye.jpg&#34;&gt;
-		&lt;img style=&#34;height:250px&#34; src=&#34;battleroyale.jpg&#34;&gt;
-    &lt;img style=&#34;height:250px&#34; src=&#34;blindingknife.jpg&#34;&gt;
-&lt;/figure&gt;
-&lt;figure class=&#34;half&#34; style=&#34;display:flex&#34;&gt;
-		&lt;img style=&#34;height:250px&#34; src=&#34;republicthieves.jpg&#34;&gt;
-    &lt;img style=&#34;height:250px&#34; src=&#34;redseasredskies.jpg&#34;&gt;
-    &lt;img style=&#34;height:250px&#34; src=&#34;lieslockelamora.jpg&#34;&gt;
-		&lt;img style=&#34;height:250px&#34; src=&#34;fatedsky.jpg&#34;&gt;
-&lt;/figure&gt;
-&lt;figure class=&#34;half&#34; style=&#34;display:flex&#34;&gt;
-    &lt;img style=&#34;height:250px&#34; src=&#34;stormlocusts.jpg&#34;&gt;
-		&lt;img style=&#34;height:250px&#34; src=&#34;bloodyrose.jpg&#34;&gt;
-    &lt;img style=&#34;height:250px&#34; src=&#34;traillightning.jpg&#34;&gt;
-		&lt;img style=&#34;height:250px&#34; src=&#34;kingswyld.jpg&#34;&gt;
-&lt;/figure&gt;
-&lt;figure class=&#34;half&#34; style=&#34;display:flex&#34;&gt;
-    &lt;img style=&#34;height:250px&#34; src=&#34;blackprism.jpg&#34;&gt;
-		&lt;img style=&#34;height:250px&#34; src=&#34;guardsguards.jpg&#34;&gt;
-    &lt;img style=&#34;height:250px&#34; src=&#34;calculatingstars.jpg&#34;&gt;
-		&lt;img style=&#34;height:250px&#34; src=&#34;sabriel.jpg&#34;&gt;
-&lt;/figure&gt;
-</description>
     </item>
     
   </channel>
