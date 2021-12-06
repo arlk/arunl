@@ -4,7 +4,7 @@
 ~~~
 <div class="row">
   <div class="container" style="display: flex; justify-content: center; align-items: center;">
-    <img class="left" src="/assets/dp.jpg" height="300px" width="auto" style="border-radius:50%">
+    <img class="left" src="/assets/dp.jpg" style="border-radius:50%">
     <p>
     <b>Software Engineer</b> <br>
     Optimus Ride <br>
