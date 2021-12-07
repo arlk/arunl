@@ -17,17 +17,17 @@ Before joining the industry, I completed my PhD from the University of Illinois,
 # Experience
 
 ### [Software Engineer at Optimus Ride](https://www.optimusride.com/)
-##### _Sep 2021 - present_
+##### _Sep 2021 - present_ (Boston, MA)
 - TBD
 
 ### [Research Intern at Facebook Reality Labs](https://about.facebook.com/realitylabs/)
-##### _May 2018 - Aug 2018_
+##### _May 2018 - Aug 2018_ (Redmond, WA)
 - TBD
 
 ### [Intern at Paracosm (a division of Occipital)](https://occipital.com/)
-##### _May 2017 - Jul 2017_
+##### _May 2017 - Jul 2017_ (Gainesville, FL)
 - TBD
 
 ### [Research Intern at Qualcomm Research](https://www.qualcomm.com/research)
-##### _May 2016 - Aug 2016_
+##### _May 2016 - Aug 2016_ (Philadelphia, PA)
 - TBD
