@@ -1,5 +1,9 @@
 @def title = "Research Overview"
 
-# Research Overview
+# Research
 
-TBD
+### Incremental Region of Attraction
+
+### Contraction $\mathcal{L}_1$-Adaptive Control
+
+### Fast Collision Detection for Trajectories
