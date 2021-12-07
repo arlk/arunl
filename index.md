@@ -1,5 +1,4 @@
 @def title = "Arun Lakshmanan"
-@def tags = ["syntax", "code"]
 
 # About Me
 
@@ -31,7 +30,4 @@ Before joining the industry, I completed my PhD from the University of Illinois,
 
 ### [Research Intern at Qualcomm Research](https://www.qualcomm.com/research)
 ##### _May 2016 - Aug 2016_
-- TBD
-
-# Research Overview
 - TBD
