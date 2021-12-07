@@ -17,22 +17,30 @@ Before joining the industry, I completed my PhD from the University of Illinois,
 # Experience
 
 ### [Software Engineer at Optimus Ride](https://www.optimusride.com/)
-##### _Sep 2021 - present_ (Boston, MA)
+~~~
+<h5><i>Sep 2021 - present</i> (Boston, MA)</h5>
+~~~
 - Produced a design document rigorously detailing the safety requirements and the associated assumptions for an autonomous vehicle from a controls perspective.
 - Documented the design of a model predictive control algorithm with computational, stability, and feasibility guarantees.
 
 ### [Research Intern at Facebook Reality Labs](https://about.facebook.com/realitylabs/)
-##### _May 2018 - Aug 2018_ (Redmond, WA)
+~~~
+<h5><i>May 2018 - Aug 2018</i> (Redmond, WA)</h5>
+~~~
 - Performed system identification for a controlled hardware device.
 - Implemented a disturbance observer-based control augmented with a baseline PID control to compensate for disturbances injected into the system while accurately tracking reference signals.
 
 ### [Intern at Paracosm (a division of Occipital)](https://occipital.com/)
-##### _May 2017 - Jul 2017_ (Gainesville, FL)
+~~~
+<h5><i>May 2017 - Jul 2017</i> (Gainesville, FL)</h5>
+~~~
 - Designed a C++ library for generic motion planners that allows for easily swapping between different types of motion planner for a wheeled robot mounted with a _Structure_ sensor.
 - Implemented a computationally efficient distance transform of an occupancy map for fast collision checking and distance-based prioritization when planning.
 
 ### [Research Intern at Qualcomm Research](https://www.qualcomm.com/research)
-##### _May 2016 - Aug 2016_ (Philadelphia, PA)
+~~~
+<h5><i>May 2016 - Aug 2016</i> (Philadelphia, PA)</h5>
+~~~
 - Designed an obstacle avoidance controller for the _Snapdragon Flight_ board (since discontinued) for assistive collision prevention using noisy vision-based range information.
 - Developed sampling-based motion planning algorithms to generate distance-optimal collision-free paths for the vehicle from a 3D occupancy map.
 <!-- The software was designed to be as computationally efficient as possible to run seamlessly on the Snapdragon 801 chipset. -->

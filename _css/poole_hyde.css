@@ -345,12 +345,7 @@ a.sidebar-nav-item:focus {
  * Dynamically change width based on the window size.
  */
 
-video {
-  max-width:640px;
-  width:100%;
-}
-
-iframe {
+video, iframe {
   max-width:640px;
   width:100%;
 }
