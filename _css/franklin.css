@@ -240,10 +240,9 @@ td {
     IMAGES in CONTENT
 ================================================================== */
 
-.franklin-content img {
-  width: 70%;
+.franklin-content img, video, iframe {
+  width: 100%;
   text-align: center;
-  padding-left: 10%;
 }
 
 .franklin-content .img-small img {

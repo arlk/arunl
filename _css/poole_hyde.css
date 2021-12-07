@@ -339,13 +339,3 @@ a.sidebar-nav-item:focus {
     margin-right: 2rem;
   }
 }
-
-/* Video
- *
- * Dynamically change width based on the window size.
- */
-
-video, iframe {
-  max-width:640px;
-  width:100%;
-}

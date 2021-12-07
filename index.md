@@ -1,12 +1,12 @@
 @def title = "Arun Lakshmanan"
 
-# About Me
+~~~<h1>About Me</h1>~~~
 
 I am currently working as a software engineer at [Optimus Ride](https://www.optimusride.com) in the _Planning and Controls_ team where I focus development efforts on modern control techniques that provide rigorous safety arguments for self-driving vehicles.
 
 Before joining the industry, I completed my PhD from the University of Illinois, where I was advised by [Prof. Naira Hovakimyan](http://naira.mechse.illinois.edu/). Broadly, my research was at the intersection of robotics, control theory, and machine learning, where I focused on safe motion planning for robots under uncertainty. While at UIUC, I also spent a few summers working outside of academia towards robotics related problems at Facebook Reality Labs, Occipital, and Qualcomm.
 
-# Education
+~~~<h1>Education</h1>~~~
 
 - Ph.D., Mechanical Engineering, University of Illinois Urbana-Champaign. 2021.
 
@@ -14,7 +14,7 @@ Before joining the industry, I completed my PhD from the University of Illinois,
 
 - B.Tech., Mechanical Engineering, VIT University, India. 2014.
 
-# Experience
+~~~<h1>Experience</h1>~~~
 
 ### [Software Engineer at Optimus Ride](https://www.optimusride.com/)
 ~~~

@@ -9,6 +9,7 @@
 Your browser does not support the video tag.
 </video>
 ~~~
+![A collection of pendulum swing-ups](/assets/research/iroa_pendulum.gif)
 
 ## Contraction Theory-Based $\mathcal{L}_1$-Adaptive Control
 ![](/assets/research/dubins_cl1gp.png)
