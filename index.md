@@ -2,7 +2,7 @@
 
 ~~~<h1>About Me</h1>~~~
 
-I am currently working as a software engineer at [Optimus Ride](https://www.optimusride.com) in the _Planning and Controls_ team where I focus development efforts on modern control techniques that provide rigorous safety arguments for self-driving vehicles.
+I am currently working as a software engineer at [Optimus Ride](https://www.optimusride.com) in the _Planning and Controls_ team where I focus development efforts on modern control techniques that provide rigorous safety guarantees for self-driving vehicles.
 
 Before joining the industry, I completed my PhD from the University of Illinois, where I was advised by [Prof. Naira Hovakimyan](http://naira.mechse.illinois.edu/). Broadly, my research was at the intersection of robotics, control theory, and machine learning, where I focused on safe motion planning for robots under uncertainty. For a deeper overview of my work during the PhD, head over to the [research page](/research/). While at UIUC, I also spent a few summers working outside of academia towards robotics related problems at Facebook Reality Labs, Occipital, and Qualcomm.
 
@@ -30,11 +30,11 @@ Before joining the industry, I completed my PhD from the University of Illinois,
 - Performed system identification for a controlled hardware device.
 - Implemented a disturbance observer-based control augmented with a baseline PID control to compensate for disturbances injected into the system while accurately tracking reference signals.
 
-### [Intern at Paracosm (a division of Occipital)](https://occipital.com/)
+### [Robotics Perception Intern at Paracosm (a division of Occipital)](https://occipital.com/)
 ~~~
 <h5><i>May 2017 - Jul 2017</i> (Gainesville, FL)</h5>
 ~~~
-- Designed a C++ library for generic motion planners that allows for easily swapping between different types of motion planner for a wheeled robot mounted with a _Structure_ sensor.
+- Designed a C++ motion planning library and implemented different types of planning algorithms for wheeled robots mounted with _Structure_ sensors.
 - Implemented a computationally efficient distance transform of an occupancy map for fast collision checking and distance-based prioritization when planning.
 
 ### [Research Intern at Qualcomm Research](https://www.qualcomm.com/research)
