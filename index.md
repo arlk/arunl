@@ -2,7 +2,7 @@
 
 ~~~<h1>About Me</h1>~~~
 
-I am currently working as a software engineer at [Optimus Ride](https://www.optimusride.com) in the _Planning and Controls_ team where I focus development efforts on modern control techniques that provide rigorous safety guarantees for self-driving vehicles.
+I am currently working as a software engineer at [Apple](https://www.apple.com) in the Special Projects Group (SPG).
 
 Before joining the industry, I completed my PhD from the University of Illinois, where I was advised by [Prof. Naira Hovakimyan](http://naira.mechse.illinois.edu/). Broadly, my research was at the intersection of robotics, control theory, and machine learning, where I focused on safe motion planning for robots under uncertainty. For a deeper overview of my work during the PhD, head over to the [research page](/research/). While at UIUC, I also spent a few summers working outside of academia towards robotics related problems at Facebook Reality Labs, Occipital, and Qualcomm.
 
@@ -16,9 +16,15 @@ Before joining the industry, I completed my PhD from the University of Illinois,
 
 ~~~<h1>Experience</h1>~~~
 
-### [Software Engineer at Optimus Ride](https://www.optimusride.com/)
+### [Software Engineer at Apple SPG](https://www.apple.com/)
 ~~~
-<h5><i>Sep 2021 - present</i> (Boston, MA)</h5>
+<h5><i>April 2022 - present</i> (Sunnyvale, CA)</h5>
+~~~
+- Covered by a strict public release policy.
+
+### [Software Engineer at Optimus Ride (acquired by Magna Electronics)](https://www.optimusride.com/)
+~~~
+<h5><i>Sep 2021 - Apr 2022</i> (Boston, MA)</h5>
 ~~~
 - Produced a design document rigorously detailing the safety requirements and the associated assumptions for an autonomous vehicle from a controls perspective.
 - Documented the design of a model predictive control algorithm with computational, stability, and feasibility guarantees.
@@ -27,8 +33,7 @@ Before joining the industry, I completed my PhD from the University of Illinois,
 ~~~
 <h5><i>May 2018 - Aug 2018</i> (Redmond, WA)</h5>
 ~~~
-- Performed system identification for a controlled hardware device.
-- Implemented a disturbance observer-based control augmented with a baseline PID control to compensate for disturbances injected into the system while accurately tracking reference signals.
+- Covered by a strict public release policy.
 
 ### [Robotics Perception Intern at Paracosm (a division of Occipital)](https://occipital.com/)
 ~~~
