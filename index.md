@@ -16,7 +16,7 @@ Before joining the industry, I completed my PhD from the University of Illinois,
 
 ~~~<h1>Experience</h1>~~~
 
-### [Software Engineer at Apple SPG](https://www.apple.com/)
+### [Software Engineer at Apple AIML](https://www.apple.com/)
 ~~~
 <h5><i>April 2022 - present</i> (Sunnyvale, CA)</h5>
 ~~~
